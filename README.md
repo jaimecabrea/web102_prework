@@ -21,13 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: https://imgur.com/a/sXstXpx
+Here's a walkthrough of implemented features: https://imgur.com/a/sXstXpx.mp4
 
 <!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-<video width="320" height="240" controls>
-  <source src="https://imgur.com/hpfypp7" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
@@ -41,6 +37,7 @@ GIF created with Quicktime ScrenRecording feature for macOS imgur upload works f
 ## Notes
 
 Describe any challenges encountered while building the app.
+No challenges.
 
 ## License
 
