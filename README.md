@@ -24,6 +24,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features: https://imgur.com/a/sXstXpx
 
 <!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<video width="320" height="240" controls>
+  <source src="https://imgur.com/hpfypp7.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
