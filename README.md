@@ -34,6 +34,10 @@ GIF created with Quicktime ScrenRecording feature for macOS imgur upload works f
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+
+## Visit Website
+Is imgur down? Check our the website by clicking [here](https://jaimecabrea.github.io/web102_prework/).
+
 ## Notes
 
 Describe any challenges encountered while building the app.
