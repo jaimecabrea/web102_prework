@@ -36,7 +36,7 @@ GIF created with Quicktime ScrenRecording feature for macOS imgur upload works f
 
 
 ## Visit Website
-Is imgur down? Check our the website by clicking [here](https://jaimecabrea.github.io/web102_prework/).
+Is imgur down? Check out the website by clicking [here](https://jaimecabrea.github.io/web102_prework/).
 
 ## Notes
 
